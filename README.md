@@ -6,3 +6,4 @@ This repo contains my C++ learning notes
 ![Image of Yaktocat](https://github.com/weixiongdi/zhili-c-plusplus/blob/master/image/IMG_2528.JPG)
 ![Image of Yaktocat](https://github.com/weixiongdi/zhili-c-plusplus/blob/master/image/IMG_2529.JPG)
 ![Image of Yaktocat](https://github.com/weixiongdi/zhili-c-plusplus/blob/master/image/IMG_2530.JPG)
+![Image of Yaktocat](https://github.com/weixiongdi/zhili-c-plusplus/blob/master/image/IMG_2699.JPG)
